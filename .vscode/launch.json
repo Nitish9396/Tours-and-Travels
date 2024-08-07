@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ToursAndTravelsApplication<Tours-and-Travels>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.tours.ToursAndTravelsApplication",
+            "projectName": "Tours-and-Travels",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
