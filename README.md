@@ -12,13 +12,8 @@ Welcome to the Tour and Travel Website! This project is a web application develo
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+  
+  -
 
 ## Features
 
@@ -61,9 +56,4 @@ Welcome to the Tour and Travel Website! This project is a web application develo
 - [MySQL](https://dev.mysql.com/downloads/) or [PostgreSQL](https://www.postgresql.org/download/)
 - [Maven](https://maven.apache.org/download.cgi)
 
-### Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/tour-and-travel-website.git
-   cd tour-and-travel-website
