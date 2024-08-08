@@ -1,6 +1,7 @@
 # Tour and Travel Website
 
-![Logo](path/to/![logo2](https://github.com/user-attachments/assets/4cd6c41d-e4cf-4c04-b29b-bf54bbf539e5)
+![Logo](![logo2](https://github.com/user-attachments/assets/83e3ed7d-0bb5-4eec-aac6-ef2619ce2ce9)
+)
 )
 
 Welcome to the Tour and Travel Website! This project is a web application developed using JavaScript, Spring Boot, and Angular, designed to provide users with a seamless experience for browsing and booking travel packages.
